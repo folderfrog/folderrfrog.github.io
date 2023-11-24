@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    background-color: cornsilk;
+    margin-inline: 60px;
+}
+
+ul,ol,a {
+    text-align: left;
+    color: black;
+}
+
+p {
+
+font-size: 30px;
+font-weight: 900;
+font-family: Comic Sans MS, Comic Sans, cursive;
+}
+ul,ol,li {
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Impact, fantasy;
+}
+
+h2 {
+    text-align: left;
+    font-size: 40px;
+}
+
+li {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+p {
+
+margin-bottom: 40px;
+}
+
+.gi {
+   font-family: Brush Script MT, Brush Script Std, cursive;;
+}
+
+.go {
+    text-align: left;
+    
+}
+.hoho {
+    background-color: azure;
+    border: 15px solid black;
+    border-radius: 20px;
+    font-weight: bold;
+}
